@@ -81,7 +81,7 @@ click-repl==0.2.0
     #   celery
 colorama==0.4.6
     # via tox
-cryptography==39.0.2
+cryptography==42.0.6
     # via
     #   -r requirements/pip.txt
     #   pyjwt
