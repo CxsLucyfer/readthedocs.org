@@ -147,7 +147,7 @@ sphinxemoji==0.2.0
     # via -r requirements/docs.in
 sphinxext-opengraph==0.8.1
     # via -r requirements/docs.in
-tornado==6.2
+tornado==6.4.2
     # via livereload
 urllib3==1.26.15
     # via requests
