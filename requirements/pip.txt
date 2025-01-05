@@ -78,7 +78,7 @@ django==3.2.18
     #   django-taggit
     #   djangorestframework
     #   jsonfield
-django-allauth==0.51.0
+django-allauth==65.3.0
     # via -r requirements/pip.in
 django-annoying==0.10.6
     # via -r requirements/pip.in
