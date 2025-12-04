@@ -102,7 +102,7 @@ dj-pagination==2.5.0
     # via -r requirements/pip.txt
 dj-stripe==2.6.3
     # via -r requirements/pip.txt
-django==3.2.18
+django==4.2.27
     # via
     #   -r requirements/pip.txt
     #   dj-stripe
@@ -400,7 +400,7 @@ sphinxcontrib-serializinghtml==1.1.5
     # via
     #   -r requirements/pip.txt
     #   sphinx
-sqlparse==0.4.3
+sqlparse==0.5.4
     # via
     #   -r requirements/pip.txt
     #   django
