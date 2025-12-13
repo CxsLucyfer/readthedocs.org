@@ -28,7 +28,7 @@ docutils==0.18.1
     #   sphinx
     #   sphinx-rtd-theme
     #   sphinx-tabs
-fonttools==4.39.0
+fonttools==4.61.0
     # via matplotlib
 idna==3.4
     # via requests
@@ -147,9 +147,9 @@ sphinxemoji==0.2.0
     # via -r requirements/docs.in
 sphinxext-opengraph==0.8.1
     # via -r requirements/docs.in
-tornado==6.2
+tornado==6.5.3
     # via livereload
-urllib3==1.26.15
+urllib3==2.6.0
     # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
